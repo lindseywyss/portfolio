@@ -1,7 +1,8 @@
 # Portfolio
 
 ### Education
-Biological Data Science, M.S.
+Biological Data Science, M.S. 
+
 Biochemistry, B.S.
 
 ### Work Experience
